@@ -1,0 +1,6 @@
+
+        # app/config/parameters.yaml
+parameters:
+    pidev1: 'C:/symfony/pidev1'
+    bus_images_directory: '%pidev1%/public/images/bus'
+ 
